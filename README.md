@@ -155,6 +155,15 @@ Full bibliographic information will be added following publication.
 ## 12.License
 
 No open-source license has been applied to this repository at this time.
+## 13. Archived Version and DOI
+
+An archived version of this research project is available through Zenodo.
+
+**GitHub Repository:** https://github.com/Yashark2/Suspension_Q1_V2_Unified
+
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.24559565
+
+The archived version corresponds to the source code and supplementary materials used to generate the results reported in the associated research manuscript.
 
 The source code, simulation datasets, figures, and documentation are made publicly available for research inspection and peer-review purposes.
 
