@@ -1,5 +1,7 @@
 **Force-Aware and Robustness-Aware Benchmarking of PID, Fuzzy, Fuzzy-PID, LQR and L1 Adaptive Control for Active Quarter-Car Suspensions, with an Audit of Inconsistent Simulink Logs**
+
 DOI: https://doi.org/10.5281/zenodo.24559565
+
 Authors: Yashar Amani and Masoud Masih-Tehrani
 
 **1. Project overview**
